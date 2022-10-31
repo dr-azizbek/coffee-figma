@@ -46,10 +46,11 @@ a{
 }
 
 .coffee__simple{
+    position: relative;
     width: 493px;
     height: 367px;
     margin-left: 80px;
-    margin-top: 170px;
+    margin-top: -65px;
     border-radius: 0px;
 
 }
