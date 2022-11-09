@@ -6,4 +6,4 @@
 [[redirects]]
  from = "/*"
  to = "/home coffee.html"
- status = 200
+ status = 254
